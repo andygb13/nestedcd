@@ -5458,6 +5458,11 @@ a.close.disabled {
   flex-shrink: 0;
 }
 
+.section-separator {
+  border-top: 1px solid #ccc;
+  margin-top: 1000px;
+}
+
 .modal-dialog-scrollable .modal-body {
   overflow-y: auto;
 }
